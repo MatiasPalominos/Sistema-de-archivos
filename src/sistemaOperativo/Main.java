@@ -17,7 +17,7 @@ import java.util.ArrayList;
  */
 public class Main
 {
-
+    //a
     private static Directorio directorio;
     private static BitMap bitmap;
     private static Disco disco;
