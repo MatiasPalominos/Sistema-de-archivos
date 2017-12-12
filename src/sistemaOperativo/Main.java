@@ -21,6 +21,7 @@ public class Main
         // TODO code application logic here
         //palomitos 1414 como iniciaste el git? ahi cargo creo , ya mira teni que hacer esto
         //cachaste cómo? y se te actualiza en tu pc? no, para actualizarlo teni qeu haecer esto
+        //ESRIBO ALGO AQUÍ
     }
     
 }
