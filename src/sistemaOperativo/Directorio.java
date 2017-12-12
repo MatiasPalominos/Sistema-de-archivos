@@ -1,5 +1,5 @@
 /*
- * Clase que contiene el nombre del archivo y la posicion del FCB.
+ * Clase encargada de manejar las posiciones del FCB dentro del Disco.
  */
 
 package sistemaOperativo;
