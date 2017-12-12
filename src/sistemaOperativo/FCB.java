@@ -25,7 +25,7 @@ public class FCB
         this.sectoresDisco = new ArrayList<>();
         this.pos = new ArrayList<>();
 
-        for (int i = 0; i < (contenido.length); i++)
+        for (int i = 0; i < tamSectores; i++)
         {
             contenido[i] = ' ';
         }
@@ -63,6 +63,26 @@ public class FCB
     public void setTamSectores(int tamSectores)
     {
         this.tamSectores = tamSectores;
+    }
+
+    public ArrayList<Sector> getSectoresDisco()
+    {
+        return sectoresDisco;
+    }
+
+    public void setSectoresDisco(ArrayList<Sector> sectoresDisco)
+    {
+        this.sectoresDisco = sectoresDisco;
+    }
+
+    public ArrayList<Integer> getPos()
+    {
+        return pos;
+    }
+
+    public void setPos(ArrayList<Integer> pos)
+    {
+        this.pos = pos;
     }
 
     public char[] getContenido()
