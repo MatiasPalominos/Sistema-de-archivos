@@ -11,7 +11,7 @@ import java.util.ArrayList;
  */
 public class FCB
 {
-
+    //agregai algyna wea y guardai. SE COLOCA AZUL CUANDO HACES AGUN CAMBIO, AHORA TENI QUE HACER ESTO PA SUBIRLO
     private int tamArchivo;
     private int tamSectores;
     private char[] contenido;
