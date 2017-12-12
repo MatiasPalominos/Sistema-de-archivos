@@ -19,7 +19,7 @@ public class Main
     public static void main(String[] args)
     {
         // TODO code application logic here
-        //palomitos 14
+        //palomitos 1414 como iniciaste el git? ahi cargo creo , ya mira teni que hacer esto
     }
     
 }
